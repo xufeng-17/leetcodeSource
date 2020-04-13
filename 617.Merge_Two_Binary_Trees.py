@@ -28,27 +28,27 @@ class Solution:
             return t1 or t2
 
 
-def create_tree(lis):
-    [ t for i  in lis ]
-    t = TreeNode()
-    t1.left = TreeNode(3)
-    t1.right = TreeNode(2)
-    t1.left.left = 5
-    load_tree(t1)
+# def create_tree(lis):
+#     [ t for i  in lis ]
+#     t = TreeNode()
+#     t1.left = TreeNode(3)
+#     t1.right = TreeNode(2)
+#     t1.left.left = 5
+#     load_tree(t1)
 
 
 if __name__ == "__main__":
 
 
-    t2 = TreeNode(2)
-    t2.left = TreeNode(1)
-    t2.right = TreeNode(3)
-    t2.left.right = 4
-    t2.right.right = 7
-    load_tree(t2)
+    # t2 = TreeNode(2)
+    # t2.left = TreeNode(1)
+    # t2.right = TreeNode(3)
+    # t2.left.right = 4
+    # t2.right.right = 7
+    # load_tree(t2)
 
-    # s = Solution()
-    # result = s.mergeTrees(t1,t2)
+    # # s = Solution()
+    # # result = s.mergeTrees(t1,t2)
 
 
 
